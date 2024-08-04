@@ -1,8 +1,8 @@
-# 💫Sobre Mí:
+# 🛑Sobre Mí:
 ¡Hola! Soy Matías Antonelli, actualmente curso el segundo año de la Tecnicatura Universitaria en Programación, en la Universidad Tecnológica Nacional de Mar del Plata. Tengo 19 años y soy de Argentina.<br><br>Estoy en constante búsqueda de nuevos desafíos y oportunidades para aprender y crecer en el mundo de la tecnología.<br><br>Estoy comprometido con mi desarrollo profesional y complemento mis estudios con cursos adicionales para expandir mis conocimientos tanto en backend como en frontend.<br><br>Aunque aún no tengo una especialidad clara, estoy decidido a explorar y dominar ambos campos para convertirme en un desarrollador full-stack versátil.<br><br>Mi objetivo es sobresalir en el ámbito de la programación, desarrollando soluciones innovadoras y eficientes. Me motiva la idea de colaborar con otros programadores y profesionales para crear proyectos que marquen la diferencia.<br><br>Siempre estoy dispuesto a adquirir nuevas habilidades y conocimientos para mejorar mis capacidades y contribuir de manera significativa en cualquier equipo.
 
 
-## 🌐 Redes Sociales:
+## 🌐🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matias_antonelli23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matías-agustín-antonelli-57a936269/)
 
 # 💻 Tech Stack:
